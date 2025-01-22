@@ -28,7 +28,7 @@
 [[main]]
   identifier = "whatsapp"
   pre = "whatsapp"
-  url = "wa.me/966539821350/"
+  url = "https://wa.me/966539821350/"
   weight = 40
 
 [[main]]
