@@ -14,24 +14,28 @@
   name = "Blog"
   pageRef = "posts"
   weight = 10
-
+  
 [[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://nunocoracao.github.io/blowfish/"
+  name = "Catalog"
+  pageRef = "Catalog"
+  weight = 30
+  
+[[main]]
+  name = "About"
+  pageRef = "About"
+  weight = 30
+  
+[[main]]
+  identifier = "whatsapp"
+  pre = "whatsapp"
+  url = "wa.me/966539821350/"
   weight = 40
 
 [[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/aurelia.abayas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==/"
   weight = 50
-
-[[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 60
 
 
 # -- Footer Menu --
