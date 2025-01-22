@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Gray Blowfish"
+title = "Aurelia Abayas"
 contentDir = 'content/en'
 
 
@@ -10,15 +10,15 @@ contentDir = 'content/en'
   isoCode = "en"
   rtl = false
   # logo = "img/logo.png"
-  description = "My awesome website"
+  description = "message us to order‏ | shipping to gcc countries & the UK"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
 [params.author]
-  name = "Gray Blowfish"
+  name = "Aurelia Abayas"
   image = "img/avatar.png"
-  headline = "This is my very simple profile website with my links"
-  bio = "A little bit about you"
+  headline = "Message us to order!"
+  bio = ""
    links = [
      { link = "https://nunocoracao.github.io/blowfish/" },
      { github = "https://github.com/nunocoracao/blowfish" },
