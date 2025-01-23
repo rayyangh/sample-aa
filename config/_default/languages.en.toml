@@ -20,7 +20,6 @@ contentDir = 'content/en'
   headline = "Message us to order!"
   bio = ""
    links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-     { x-twitter = "https://twitter.com/burufugu" }
+     { whatsapp = "https://wa.me/966539821350/" },
+     { instagram = "https://www.instagram.com/aurelia.abayas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==/" }
    ]
