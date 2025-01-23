@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Gray Blowfish</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Gray Blowfish</description>
+    <title>Tags on Aurelia Abayas</title>
+    <link>https://abayas.pages.dev/tags/</link>
+    <description>Recent content in Tags on Aurelia Abayas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Gray Blowfish</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Aurelia Abayas</copyright>
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abayas.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ipsum</title>
-      <link>/tags/ipsum/</link>
+      <link>https://abayas.pages.dev/tags/ipsum/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ipsum/</guid>
+      <guid>https://abayas.pages.dev/tags/ipsum/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lorem</title>
-      <link>/tags/lorem/</link>
+      <link>https://abayas.pages.dev/tags/lorem/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lorem/</guid>
+      <guid>https://abayas.pages.dev/tags/lorem/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>/tags/post/</link>
+      <link>https://abayas.pages.dev/tags/post/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/post/</guid>
+      <guid>https://abayas.pages.dev/tags/post/</guid>
       <description></description>
       
     </item>
