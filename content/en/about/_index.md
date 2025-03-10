@@ -14,9 +14,9 @@ cascade:
 ---
 
 {{< lead >}}
-See what's possible with Blowfish.
+See what's new at Aurelia.
 {{< /lead >}}
 
-This section contains links to example templates and pages created using Blowfish to get you inspired.
+This section contains links to Aurelia Abayas collections
 
 ---
