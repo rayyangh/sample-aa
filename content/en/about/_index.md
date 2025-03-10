@@ -1,6 +1,6 @@
 ---
-title: "Showcase"
-description: "See what's possible with Blowfish."
+title: "Catalog"
+description: "See what's new at Aurelia."
 
 showLikes: false
 showViews: false
