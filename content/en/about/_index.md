@@ -2,8 +2,8 @@
 title: "Showcase"
 description: "See what's possible with Blowfish."
 
-showLikes: true
-showViews: true
+showLikes: false
+showViews: false
 
 cascade:
   showEdit: false
