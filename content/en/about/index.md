@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "All About Aurelia"
-
+layout: "single"
 showLikes: false
 showViews: false
 
