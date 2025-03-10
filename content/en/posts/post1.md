@@ -1,11 +1,11 @@
 ---
 title: "My Image Gallery"
 gallery:
-  - image: "assets/abayas/2024-06-04_22-40-11_UTC_5.jpg"
+  - image: "/abayas/2024-06-04_22-40-11_UTC_5.jpg"
     caption: "A beautiful landscape"
-  - image: "assets/abayas/2024-11-21_12-28-15_UTC_1.jpg"
+  - image: "/abayas/2024-11-21_12-28-15_UTC_1.jpg"
     caption: "A nice abaya"
-  - image: "assets/abayas/2024-11-21_12-29-25_UTC_4.jpg"
+  - image: "/abayas/2024-11-21_12-29-25_UTC_4.jpg"
     caption: "A cool abaya"
 ---
 
