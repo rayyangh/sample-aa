@@ -1,13 +1,12 @@
 ---
 title: "My Image Gallery"
 gallery:
-  - image: "/images/image1.jpg"
+  - image: "assets/abayas/2024-06-04_22-40-11_UTC_5.jpg"
     caption: "A beautiful landscape"
-    link: "https://example.com/image1"
-  - image: "/images/image2.jpg"
-    caption: "A cute animal"
-  - image: "/images/image3.jpg"
-    caption: "A modern building"
+  - image: "assets/abayas/2024-11-21_12-28-15_UTC_1.jpg"
+    caption: "A nice abaya"
+  - image: "assets/abayas/2024-11-21_12-29-25_UTC_4.jpg"
+    caption: "A cool abaya"
 ---
 
 This is my article content. You can see the images below.
