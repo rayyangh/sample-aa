@@ -32,12 +32,12 @@ mainSections = ["posts"]
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/blowfish_lite/posts"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = true
+  showDate = false
   #showViews = true
   #showLikes = true
   showDateUpdated = false
