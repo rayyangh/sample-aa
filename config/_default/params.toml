@@ -63,11 +63,11 @@ mainSections = ["posts"]
 
 [list]
   showBreadcrumbs = false
-  showSummary = true
+  showSummary = false
   showTableOfContents = false
-  showCards = false
-  groupByYear = true
-  cardView = false
+  showCards = true
+  groupByYear = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = true
 
