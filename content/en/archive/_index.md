@@ -17,6 +17,4 @@ cascade:
 See timeless Aurelia Collections.
 {{< /lead >}}
 
-This section contains links to Aurelia Abayas collections
-
 ---
