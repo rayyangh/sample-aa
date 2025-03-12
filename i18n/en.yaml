@@ -30,7 +30,7 @@ article:
     disable: "Disable zen mode"
 
 author:
-  byline_title: "Author"
+  byline_title: ""
 
 code:
   copy: "Copy"
