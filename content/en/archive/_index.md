@@ -1,5 +1,5 @@
 ---
-title: "Catalog"
+title: "Archive"
 description: "See timeless Aurelia Collections."
 
 showLikes: false
