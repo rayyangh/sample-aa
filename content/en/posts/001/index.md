@@ -1,8 +1,8 @@
 ---
-title: "White & Blue Half Bisht (01)"
-date: 1999-12-22
-draft: false
-description: "Our First Drop"
+title: "White & Blue Half Bisht"
+date: 2022-01-25
+description: "First drop"
+summary: "."
 ---
 
 ### 260 SAR
