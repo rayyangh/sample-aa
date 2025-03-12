@@ -1,5 +1,7 @@
 ---
-title: "Blowfish Artist"
-date: 2022-11-06
-externalUrl: "https://nunocoracao.github.io/blowfish_artist/"
+title: "White and Blue (01)"
+date: 1987-12-22
+draft: false
+description: "Our First Drop"
 ---
+![Example](img/example.jpg "Image caption")
