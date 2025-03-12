@@ -59,7 +59,7 @@ mainSections = ["archive"]
   showAuthorsBadges = false 
   showWordCount = false
   showSummary = false
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "facebook"]
+  sharingLinks = [ ]
 
 [list]
   showBreadcrumbs = false
