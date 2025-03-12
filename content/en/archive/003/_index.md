@@ -1,5 +1,6 @@
 ---
-title: "Blowfish Lowkey"
-date: 2022-11-06
-externalUrl: "https://nunocoracao.github.io/blowfish_lowkey/"
+title: "Light Yellow Bisht (03)"
+date: 1987-12-22
+draft: false
+description: "Our First Drop"
 ---
