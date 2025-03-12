@@ -1,6 +1,6 @@
 ---
 title: "Dark Blue Bisht (02)"
-date: 1987-12-22
+date: 1990-12-22
 draft: false
 description: "Our Second Drop"
 ---
