@@ -1,0 +1,10 @@
+{
+    "name": "Aurelia Abayas",
+"image": "img/avatar.png",
+"headline": "Message us to order!",
+"bio": "",
+ "social": [
+   { whatsapp = "https://wa.me/966539821350/" },
+   { instagram = "https://www.instagram.com/aurelia.abayas?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==/" }
+ ]
+}
