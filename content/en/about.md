@@ -2,7 +2,7 @@
 title: "About Us"
 draft: false
 description: "About Aurelia."
-showAuthor: true
+showAuthor: false
 authors:
   - "ayesha"
 showAuthorsBadges: false
