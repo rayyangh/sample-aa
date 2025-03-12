@@ -27,7 +27,7 @@ mainSections = ["archive"]
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "ayesha.jpg" # used in: hero, and card
+  homepageImage = "img/ayesha.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
