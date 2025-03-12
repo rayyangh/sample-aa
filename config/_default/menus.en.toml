@@ -18,12 +18,12 @@
 [[main]]
   name = "About"
   pageRef = "About"
-  weight = 20
+  weight = 30
   
 [[main]]
   name = "Archive"
   pageRef = "Archive"
-  weight = 30
+  weight = 20
   
 [[main]]
   identifier = "whatsapp"
