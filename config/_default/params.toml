@@ -58,7 +58,7 @@ mainSections = ["posts"]
   showTaxonomies = false 
   showAuthorsBadges = false 
   showWordCount = false
-  showSummary = true
+  showSummary = false
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "facebook"]
 
 [list]
