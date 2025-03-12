@@ -1,6 +1,6 @@
 ---
 title: "Catalog"
-description: "See what's new at Aurelia."
+description: "See timeless Aurelia Collections."
 
 showLikes: false
 showViews: false
@@ -14,7 +14,7 @@ cascade:
 ---
 
 {{< lead >}}
-See what's new at Aurelia.
+See timeless Aurelia Collections.
 {{< /lead >}}
 
 This section contains links to Aurelia Abayas collections
