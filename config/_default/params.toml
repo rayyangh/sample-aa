@@ -73,6 +73,16 @@ mainSections = ["posts"]
   cardViewScreenWidth = false
   constrainItemsWidth = true
 
+[related]
+  includeNewer = true
+  threshold = 20
+  toLower = false
+  [[related.indices]]
+    applyFilter = true
+    name = 'fragmentrefs'
+    type = 'fragments'
+    weight = 80
+
 [sitemap]
   excludedKinds = []
 
