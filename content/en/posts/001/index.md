@@ -5,6 +5,7 @@ draft: false
 description: "Our First Drop"
 cardView: true
 showCards: true
+tags: [abaya]
 ---
 
 ### 260 SAR
