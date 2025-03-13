@@ -3,6 +3,8 @@ title: "Dark Blue Bisht (02)"
 date: 1990-12-22
 draft: false
 description: "Our Second Drop"
+cardView: true
+showCards: true
 tags: [abaya]
 ---
 
