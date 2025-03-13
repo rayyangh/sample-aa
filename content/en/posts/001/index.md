@@ -6,6 +6,9 @@ description: "Our First Drop"
 cardView: true
 showCards: true
 tags: [abaya]
+showAuthor: false
+authors:
+  - "aurelia"
 ---
 
 ### 260 SAR
