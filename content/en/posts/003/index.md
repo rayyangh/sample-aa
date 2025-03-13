@@ -6,9 +6,6 @@ description: "Our Third Drop"
 cardView: true
 showCards: true
 tags: [abaya]
-showAuthor: false
-authors:
-  - "aurelia"
 ---
 
 ### 220 SAR
