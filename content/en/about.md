@@ -6,6 +6,7 @@ showAuthor: false
 authors:
   - "ayesha"
 showAuthorsBadges: false
+toc: false
 ---
 
 ### When I first started this,
