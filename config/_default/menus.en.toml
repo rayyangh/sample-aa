@@ -44,6 +44,6 @@
 
 
  [[footer]]
-   name = "Tags"
+   name = ""
    pageRef = "tags"
    weight = 10
