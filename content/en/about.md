@@ -6,7 +6,7 @@ showAuthor: false
 authors:
   - "ayesha"
 showAuthorsBadges: false
-toc: false
+showTableOfContents: false
 ---
 
 ### When I first started this,
